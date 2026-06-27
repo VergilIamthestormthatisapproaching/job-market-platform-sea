@@ -124,4 +124,4 @@ docker-compose exec app python -m src.storage.init_db
 
 ---
 
-*Built by [Your Name] — Final Year Project, Bachelor of Computer Science (Data Science), Monash University*
+*Built by Anurag Kumar — Final Year Project, Bachelor of Computer Science (Data Science), Monash University*
